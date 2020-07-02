@@ -1,1 +1,2 @@
-# speech-recognition-python
+# Speech Recognition Using Python
+We were given a task where we create a computer program to recognize five different words through speech recognition.  Recognizing speech requires audio input, we use the python library SpeechRecognition which makes retrieving input really easy. Instead of having to build scripts for accessing microphones and processing audio files from scratch, SpeechRecognition will have you up and running in just a few minutes.
